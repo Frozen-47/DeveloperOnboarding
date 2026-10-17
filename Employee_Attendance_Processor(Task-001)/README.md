@@ -27,7 +27,7 @@ A simple Python program that calculates employee attendance percentages, classif
 ## Project Structure
 
 ```text
-employee-attendance-processor/
+Employee_Attendance_Processor(Task-001)/
 ├── employee_attendance.py
 └── README.md
 ```

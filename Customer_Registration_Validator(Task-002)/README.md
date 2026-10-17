@@ -24,8 +24,8 @@ Built as **Task 002** of my Python software development practice.
 ## Project Structure
 
 ```text
-customer-registration-validator/
-├── customer_registration.py
+Customer_Registration_Validator(Task-002)/
+├── registration_validator.py
 └── README.md
 ```
 
@@ -34,7 +34,7 @@ customer-registration-validator/
 Make sure Python 3 is installed, then run:
 
 ```bash
-python customer_registration.py
+python registration_validator.py
 ```
 
 ## Sample Input
