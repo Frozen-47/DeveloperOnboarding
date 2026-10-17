@@ -1,4 +1,17 @@
-customers = []
+customers = [
+    {
+        "id" : 101,
+        "name" : "Arun",
+        "email" : "arun@gmail.com",
+        "phone" : "9876543210"
+    },
+    {
+        "id" : 102,
+        "name" : "Bala",
+        "email" : "bala@gmail.com",
+        "phone" : "9765432108"
+    }
+]
 
 def validate_name(name):
     if not name.strip():
